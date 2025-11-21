@@ -13,9 +13,10 @@ It uses TMDB API for real-time movie data and features search, sort, and filter 
 ## 🛠️Tech Stack
 <img width="206" height="263" alt="image" src="https://github.com/user-attachments/assets/18d34ed9-49cb-4340-8c14-63847f6cf343" />
 
-
+---
 
 <img width="322" height="697" alt="image" src="https://github.com/user-attachments/assets/eb806cc9-266d-4b8a-8cf6-af41771520dc" />
+---
 
 **HomePage**
 
