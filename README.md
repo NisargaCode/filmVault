@@ -13,14 +13,14 @@ It uses TMDB API for real-time movie data and features search, sort, and filter 
 **🛠️ Tech Stack**
 Frontend
 
-⚛️ React.js
-🎨 Tailwind CSS
-🌐 TMDB API
-🔄 React Hooks
-🧭 React Router
-📦 Local Storage
+-⚛️ React.js
+-🎨 Tailwind CSS
+-🌐 TMDB API
+-🔄 React Hooks
+-🧭 React Router
+-📦 Local Storage
 
-
+---
 <img width="322" height="697" alt="image" src="https://github.com/user-attachments/assets/eb806cc9-266d-4b8a-8cf6-af41771520dc" />
 
 **HomePage**
