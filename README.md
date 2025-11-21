@@ -10,10 +10,9 @@ It uses TMDB API for real-time movie data and features search, sort, and filter 
 🔗 https://filmvault-app.netlify.app/
 ```
 
-**🛠️ Tech Stack**
-Frontend
-
--⚛️ React.js
+## 🛠️Tech Stack
+- **Frontend**
+- ⚛️ React.js
 -🎨 Tailwind CSS
 -🌐 TMDB API
 -🔄 React Hooks
