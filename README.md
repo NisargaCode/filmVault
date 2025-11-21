@@ -1,16 +1,18 @@
-# React + Vite
+🎬 FilmVault — Movie Explorer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FilmVault is a React-based web application where users can explore movies, view details, and maintain their personal watchlist. It fetches real-time data from the TMDB API and provides sorting, searching, and filtering features with a clean UI built using Tailwind CSS.
 
-Currently, two official plugins are available:
+🚀 Live Demo
+🔗 https://filmvault-app.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="216" height="317" alt="image" src="https://github.com/user-attachments/assets/12f55995-50e0-4922-87d8-146577e5d635" />
 
-## React Compiler
+<img width="322" height="697" alt="image" src="https://github.com/user-attachments/assets/eb806cc9-266d-4b8a-8cf6-af41771520dc" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1910" height="852" alt="image" src="https://github.com/user-attachments/assets/ecdee12f-0246-4cb0-849c-5e63d0a51a6d" />
+<img width="1903" height="900" alt="image" src="https://github.com/user-attachments/assets/528e3e51-b860-4816-a826-0baa08c5d3fa" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
