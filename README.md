@@ -1,11 +1,19 @@
-🎬 FilmVault — Movie Explorer App
+**🎬 FilmVault — Movie Explorer App**
 
 FilmVault is a React-based web application where users can explore movies, view details, and maintain their personal watchlist. It fetches real-time data from the TMDB API and provides sorting, searching, and filtering features with a clean UI built using Tailwind CSS.
 
 🚀 Live Demo
 🔗 https://filmvault-app.netlify.app/
 
-<img width="216" height="317" alt="image" src="https://github.com/user-attachments/assets/12f55995-50e0-4922-87d8-146577e5d635" />
+**🛠️ Tech Stack**
+Frontend
+
+⚛️ React.js
+🎨 Tailwind CSS
+🌐 TMDB API
+🔄 React Hooks
+🧭 React Router
+📦 Local Storage
 
 <img width="322" height="697" alt="image" src="https://github.com/user-attachments/assets/eb806cc9-266d-4b8a-8cf6-af41771520dc" />
 
